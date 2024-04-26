@@ -1,24 +1,21 @@
 items:
 - url: /
-  name: Home
+  name: Início
   icon_class: fa fa-home fa-lg
 
 - url: /schedule/
-  name: Schedule
+  name: Calendário
   icon_class: fas fa-calendar-alt
 
 - url: /lectures/
-  name: Lectures
+  name: Aulas
   icon_class: fas fa-book-reader
 
 - url: /assignments/
-  name: Assignments
+  name: Tarefas
   icon_class: fas fa-user-graduate
 
-- url: /project/
-  name: Project
-  icon_class: fas fa-user-graduate
 
 - url: /materials/
-  name: Materials
+  name: Outros materiais
   icon_class: fas fa-book
