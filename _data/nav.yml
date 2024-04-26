@@ -15,7 +15,6 @@ items:
   name: Tarefas
   icon_class: fas fa-user-graduate
 
-
 - url: /materials/
   name: Outros materiais
   icon_class: fas fa-book
