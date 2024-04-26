@@ -1,19 +1,18 @@
 # Site settings
-course_name: History of Magic
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_name: TEMABio
+course_description: "Treinamento, Equipamento e Mentoria em Monitoramento Acústico da Biodiversidade"
+course_semester: "Pantanal 2024-2025"
 
-baseurl: "/jekyll-course-website-template" # the subpath of your site, e.g. /blog/
-url: "http://kazemnejad.github.io/" # the base hostname & protocol for your site
+baseurl: "/Pantanal2024" # the subpath of your site, e.g. /blog/
+url: "http://TEMABio.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
-twitter_username: username 
+schoolname: "K. Lisa Yang Center for Conservation Bioacoustics"
+schoolurl: "https://www.birds.cornell.edu/ccb/"
+twitter_username: @CornellSounds
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    159 Sapsucker Woods Rd
+    14850 Ithaca, NY
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
