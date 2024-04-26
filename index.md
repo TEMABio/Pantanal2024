@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-Bem-vindos ao portal do TEMABio Pantanal 2024-2025!
+Nossas boas vindas ao portal do TEMABio Pantanal 2024-2025!
