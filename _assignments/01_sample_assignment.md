@@ -1,16 +1,13 @@
 ---
 type: assignment
-date: 2024-04-19T4:00:00+4:30
-title: 'Tarefa #1 - Pesquisa + formulários assinados'
-#pdf: /static_files/assignments/asg.pdf
-#attachment: /static_files/assignments/asg.zip
-#solutions: /static_files/assignments/asg_solutions.pdf
-#due_event: 2024-05-19T4:00:00+4:30
+date: 2018-09-26T4:00:00+4:30
+title: 'Assignment #1 - Sample Assignment'
+pdf: /static_files/assignments/asg.pdf
+attachment: /static_files/assignments/asg.zip
+solutions: /static_files/assignments/asg_solutions.pdf
+due_event:
     type: due
-    description: 'Tarefa #1 '
+    date: 2018-11-13T23:59:00+3:30
+    description: 'Assignment #1 due'
 ---
-
-Pedimos gentilmente que cada equipe preencha essa planilha com:
-* (1) o nome e email de todos os integrantes de suas equipes. É a partir dessa lista que os emails de comunicação do programa serão enviados.
-* (2) Para quem não preencheu o termo de photo release e de anuência de participação das equipes (apenas os proponentes das propostas), por gentileza enviar esses termos e assinalar ok na planilha;
-* (3)participar de nossa pesquisa de opinião  do curso e assinalar a sua participação na planilha.
+This is a sample assignment.
