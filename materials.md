@@ -6,12 +6,12 @@ permalink: /materials/
 
 ## Tutoriais Raven Pro
 
-(Vídeo-tutoriais introdutórios ao Raven Pro em Português (e outras línguas)!)[https://www.ravensoundsoftware.com/video-tutorials/]
+<a href="https://www.ravensoundsoftware.com/video-tutorials/"> Vídeo-tutoriais introdutórios ao Raven Pro em Português (e outras línguas)</a>!
 
 ## Base de Conhecimento do Raven
 
-Tem dúvidas? É muito provável que ela já tenha sido respondida e publicada na (Base de Conhecimento do Raven)[https://www.ravensoundsoftware.com/knowledge-base/].
+Tem dúvidas? É muito provável que ela já tenha sido respondida e publicada na <a href="https://www.ravensoundsoftware.com/knowledge-base/"> Base de Conhecimento do Raven)</a>.
 
 ## BioacousTalks
 
-Seminários quinzenais sobre aplicações em monitoramento acústico passivo da biodiversidade, via Zoom. Inscreva-se (nesse link)[https://docs.google.com/forms/d/1Nk9YFQhrxi047_pAgkyP-uSoePPWQIDecfnyeWIFn0U/viewform?edit_requested=true] para receber informações sobre as próximas edições!
+Seminários quinzenais sobre aplicações em monitoramento acústico passivo da biodiversidade, via Zoom. Inscreva-se <a href="https://docs.google.com/forms/d/1Nk9YFQhrxi047_pAgkyP-uSoePPWQIDecfnyeWIFn0U/viewform?edit_requested=true"> nesse link </a> para receber informações sobre as próximas edições!
