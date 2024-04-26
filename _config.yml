@@ -1,6 +1,6 @@
 # Site settings
 course_name: TEMABio
-course_description: "Treinamento, Equipamento e Mentoria em Monitoramento Acústico da Biodiversidade"
+course_description: ""
 course_semester: "Pantanal 2024-2025"
 
 baseurl: "/Pantanal2024" # the subpath of your site, e.g. /blog/
