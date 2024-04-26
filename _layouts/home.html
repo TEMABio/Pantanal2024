@@ -9,7 +9,7 @@ layout: default
     {% include announcements.html %}
     <br />
 
-    <h2>Course Description</h2>
+    <h2>Descrição do Programa</h2>
     <p>{{ site.course_description }}</p>
 
     {{ content }}
@@ -24,7 +24,7 @@ layout: default
             </div> -->
 
             <div class="profile-pic-gallary ">
-                <h2>Instructors</h2>
+                <h2>Instrutores</h2>
                 {% for ins in site.data.people.instructors %}
                 <div class="image--cover-container">
                     <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
