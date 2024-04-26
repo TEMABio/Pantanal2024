@@ -66,7 +66,7 @@
         }
     }
 }
-*/ 
+*/
 
 
 
@@ -223,8 +223,8 @@ h1 /* .post-title */ {
 }
 
 						.footnotes ol li {list-style-type:decimal;}
-						.footnotes ol {font-size:.85em; color:#666666;}	
-	
+						.footnotes ol {font-size:.85em; color:#666666;}
+
 html {
   overflow-y: scroll;
 }
@@ -281,7 +281,7 @@ ul#archive li.alt {
 .archiveposturl {
        display: block;
 
-       color: #333;
+       color: #0077CC;
 }
 
 .archiveposturl:hover {
@@ -314,7 +314,7 @@ article ul {
 article ul > li:before {
   content: "–"; /* en dash */
   position: absolute;
-  margin-left: -1.1em; 
+  margin-left: -1.1em;
 }
 
 article ul#archive > li:before {
