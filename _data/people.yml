@@ -1,9 +1,16 @@
 instructors:
   - name: Larissa SM Sugai
     profile_pic: /_images/pp/larissa.jpg
+    webpage: https://www.birds.cornell.edu/ccb/larissa-sayuri-moreira-sugai/
+
   - name: Laurel Symes
     profile_pic: /_images/pp/laurel.png
+    webpage: https://www.birds.cornell.edu/ccb/laurel-b-symes-ph-d/
+
   - name: Ben Gottesman
     profile_pic: /_images/pp/beng.jpg
+    webpage: https://www.birds.cornell.edu/ccb/ben-gottesman-ph-d/
+
   - name: Liliana Piatti
     profile_pic: /_images/pp/lili.jpg
+    webpage: https://scholar.google.com.br/citations?user=jdS0z0UAAAAJ&hl=pt-BR
