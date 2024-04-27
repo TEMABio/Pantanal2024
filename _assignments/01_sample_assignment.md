@@ -7,7 +7,7 @@ title: 'Tarefa #1'
 #solutions: /static_files/assignments/asg_solutions.pdf
 due_event:
     type: due
-    #date: 2024-05-10T4:00:00+4:30
+    date: 2024-05-10T4:00:00+4:30
     description: 'Tarefa #1 '
 ---
 
