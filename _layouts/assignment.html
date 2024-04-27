@@ -24,16 +24,17 @@ title: page.title
       [<a href="{{ page.solutions | prepend: site.baseurl }}">soluções</a>]
       {% endif %}
     </p>
+    <article class="post-content">
+      {{ content }}
+    </article>
 
-    <div style="color: gray;">
-      <h3>Política de atraso</h3>
-      {% include late_policy.html %}
-    </div>
   </div>
 
   <br/>
-  <article class="post-content">
-    {{ content }}
-  </article>
+  <div style="color: gray;">
+    <h3>Política de atraso</h3>
+    {% include late_policy.html %}
+  </div>
+
 
 </div>
