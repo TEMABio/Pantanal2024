@@ -3,6 +3,11 @@ items:
   name: Início
   icon_class: fa fa-home fa-lg
 
+items:
+  - url: /groups/
+    name: Equipes
+    icon_class: fa fa-group
+
 - url: /schedule/
   name: Calendário
   icon_class: fas fa-calendar-alt
