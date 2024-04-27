@@ -15,7 +15,8 @@ address: |
     14850 Ithaca, NY
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
-# google_analytics: UA-XXXXXXXX-X
+google_analytics: G-W7FL6B7Z49
+
 
 ### Do not change the followings unless you know what you are doing ###
 
