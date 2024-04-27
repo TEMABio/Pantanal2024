@@ -7,7 +7,7 @@ attachment: /static_files/assignments/asg.zip
 solutions: /static_files/assignments/asg_solutions.pdf
 due_event:
     type: due
-    date: 2024-05-10T4:00:00+4:30
+    date: 2024-05-10
     description: 'Tarefa #1 '
 ---
 
