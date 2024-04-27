@@ -14,4 +14,5 @@ Tem dúvidas? É muito provável que ela já tenha sido respondida e publicada n
 
 ## BioacousTalks
 
-Seminários quinzenais sobre aplicações em monitoramento acústico passivo da biodiversidade, via Zoom. Inscreva-se <a href="https://docs.google.com/forms/d/1Nk9YFQhrxi047_pAgkyP-uSoePPWQIDecfnyeWIFn0U/viewform?edit_requested=true"> nesse link </a> para receber informações sobre as próximas edições!
+Seminários quinzenais sobre aplicações em monitoramento acústico passivo da biodiversidade, via Zoom. Inscreva-se <a href="https://docs.google.com/forms/d/1Nk9YFQhrxi047_pAgkyP-uSoePPWQIDecfnyeWIFn0U/viewform?edit_requested=true"> nesse link</a> para receber informações sobre as próximas edições!
+Perdeu alguma sessão ou deseja rever o seminário? Confira a <a href="https://www.youtube.com/playlist?list=PL9iLFNlWcYEV2BsbHQAel2wOtplp62LL_">playlist BioacousTalks no YouTube</a>!
