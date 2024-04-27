@@ -5,9 +5,9 @@ title: 'Tarefa #1'
 pdf: /static_files/assignments/asg.pdf
 attachment: /static_files/assignments/asg.zip
 solutions: /static_files/assignments/asg_solutions.pdf
-due_event: 2024-05-10T4:00:00+4:30
+due_event:
     type: due
-    date: 2018-11-13T23:59:00+3:30
+    date: 2024-05-10T4:00:00+4:30
     description: 'Tarefa #1 '
 ---
 
