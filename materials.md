@@ -6,7 +6,7 @@ permalink: /materials/
 
 ## Tutoriais Raven Pro
 
-<a href="https://www.ravensoundsoftware.com/video-tutorials/ Vídeo-tutoriais introdutórios ao Raven Pro em Português (e outras línguas)!
+<a href="https://www.ravensoundsoftware.com/video-tutorials/ Vídeo-tutoriais introdutórios ao Raven Pro em Português (e outras línguas)</a>!
 
 ## Base de Conhecimento do Raven
 
