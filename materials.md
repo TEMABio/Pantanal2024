@@ -4,17 +4,14 @@ title: Materials
 permalink: /materials/
 ---
 
-{% include image.html url="/_images/cover2.jpg" width=175 align="right" %}
+## Tutoriais Raven Pro
 
-## Book
+* https://www.ravensoundsoftware.com/video-tutorials/ Vídeo-tutoriais introdutórios ao Raven Pro em Português (e outras línguas)!
 
-Alan Turing and Noam Chomsky: Very Famous Book
+## Base de Conhecimento do Raven
 
-## Additional Course Materials
+Tem dúvidas? É muito provável que ela já tenha sido respondida e publicada na <a href="https://www.ravensoundsoftware.com/knowledge-base/"> Base de Conhecimento do Raven)</a>.
 
-* If you are not familiar with Python programming, use any online tutorial to get a handle of it.
-* [Material #1](http://www.example.com/): how a computer chess player thinks!
-* [Material #2](http://www.example.com/): how a computer chess player thinks!
-* [Material #3](http://www.example.com/): how a computer chess player thinks!
-* [Material #4](http://www.example.com/): how a computer chess player thinks!
-* [Material #5](http://www.example.com/): how a computer chess player thinks!
+## BioacousTalks
+
+Seminários quinzenais sobre aplicações em monitoramento acústico passivo da biodiversidade, via Zoom. Inscreva-se <a href="https://docs.google.com/forms/d/1Nk9YFQhrxi047_pAgkyP-uSoePPWQIDecfnyeWIFn0U/viewform?edit_requested=true"> nesse link </a> para receber informações sobre as próximas edições!
