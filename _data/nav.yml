@@ -12,8 +12,12 @@ items:
   icon_class: fas fa-book-reader
 
 - url: /assignments/
-  name: Tarefas
+  name: Treinamento
   icon_class: fas fa-user-graduate
+
+- url: /project/
+  name: Equipes
+  icon_class: fas fa-people_group
 
 - url: /materials/
   name: Outros materiais
