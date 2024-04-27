@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Materials
+title: Materiais Extras
 permalink: /materials/
 ---
 
 ## Tutoriais Raven Pro
 
-* https://www.ravensoundsoftware.com/video-tutorials/ Vídeo-tutoriais introdutórios ao Raven Pro em Português (e outras línguas)!
+<a href="https://www.ravensoundsoftware.com/video-tutorials/ Vídeo-tutoriais introdutórios ao Raven Pro em Português (e outras línguas)!
 
 ## Base de Conhecimento do Raven
 
-Tem dúvidas? É muito provável que ela já tenha sido respondida e publicada na <a href="https://www.ravensoundsoftware.com/knowledge-base/"> Base de Conhecimento do Raven)</a>.
+Tem dúvidas? É muito provável que ela já tenha sido respondida e publicada na <a href="https://www.ravensoundsoftware.com/knowledge-base/"> Base de Conhecimento do Raven</a>.
 
 ## BioacousTalks
 
