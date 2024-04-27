@@ -6,7 +6,7 @@ items:
 items:
   - url: /groups/
     name: Equipes
-    icon_class: fa fa-group
+    icon_class: 
 
 - url: /schedule/
   name: Calendário
