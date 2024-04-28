@@ -19,7 +19,7 @@
     <li class="no-p-margin">
         {% if n.type %}
             {% if n.type == 'lecture' %}
-                Gravação da sessão de treinamento disponível! {{ n.title }}
+                Sessão de treinamento: {{ n.title }}
                 {% include lecture_links.html lecture=n %}
             {% elsif n.type == 'assignment' %}
                 Nova tarefinha na área: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
