@@ -8,11 +8,11 @@ items:
   icon_class: fas fa-calendar-alt
 
 - url: /lectures/
-  name: Aulas
+  name: Treinamento
   icon_class: fas fa-book-reader
 
 - url: /assignments/
-  name: Treinamento
+  name: Tarefas
   icon_class: fas fa-user-graduate
 
 - url: /project/
