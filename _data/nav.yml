@@ -17,7 +17,7 @@ items:
 
 - url: /project/
   name: Equipes
-  icon_class: fas fa-users
+  icon_class: fa-solid fa-users-line
 
 - url: /materials/
   name: Outros materiais
