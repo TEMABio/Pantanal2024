@@ -5,7 +5,7 @@ permalink: /project/
 ---
 ## Equipes TEMABio Pantanal 2024-2025
 
-### Jacarés do Pantanal
+### **Jacarés do Pantanal**
 
 **Coordenador**: Msc. João Emílio de Almeida Júnior, Instituto de Biociências da Universidade Federal de Mato Grosso do Sul
 
@@ -17,9 +17,11 @@ permalink: /project/
 
 
 
-### Bioacústica no Alto Pantanal
+### **Bioacústica no Alto Pantanal**
 
 **Coordenadora**: Dra. Grasiela Porfirio, Instituto Homem Pantaneiro
 [Instagram](https://www.instagram.com/atelieverdeinspira/)
+
 **Equipe**: Wener Hugo Arruda Moreno, Igor Pinho Souza, Geovani Vinco Tonolli, Mariana Alves Carvalho Queiróz; Instituto Homem Pantaneiro
+
 **Resumo**
