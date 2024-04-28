@@ -2,6 +2,7 @@
 type: lecture
 date: 2024-04-14T8:00:00+4:30
 title: Materiais do Treinamento presencial (14-19 Abril 2024) disponíveis!
+tldr:
 thumbnail: /static_files/presentations/aulapres.png
 links:
     - url: /static_files/presentations/TEMABio_YangCenter_Pantanal.zip
