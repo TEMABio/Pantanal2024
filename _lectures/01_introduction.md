@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-04-26T8:00:00+4:30
+date: 2024-04-14T8:00:00+4:30
 title: Treinamento presencial 14-19 Abril 2024
 thumbnail: /static_files/presentations/aulapres.png
 links:
