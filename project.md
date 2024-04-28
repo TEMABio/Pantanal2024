@@ -7,8 +7,8 @@ permalink: /project/
 
 ### **Jacarés do Pantanal**
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Coordenador**: Msc. João Emílio de Almeida Júnior, Instituto de Biociências da &nbsp;&nbsp;&nbsp;&nbsp;Universidade Federal de Mato Grosso do Sul
-  <img src="/Users/lms433/Documents/GitHub/Pantanal2024/_images/pp/beng.jpg" alt="Description" style="border-radius: 20px;">
+<img style="float: right;" src="/Users/lms433/Documents/GitHub/Pantanal2024/_images/pp/beng.jpg" alt="Description" style="border-radius: 20px;"> **Coordenador**: Msc. João Emílio de Almeida Júnior, Instituto de Biociências da &nbsp;&nbsp;&nbsp;&nbsp;Universidade Federal de Mato Grosso do Sul
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Mídia Social**:[Instagram](https://www.instagram.com/hey_biologo/)
 
