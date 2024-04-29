@@ -6,4 +6,4 @@ thumbnail:
 
 
 ---
-Link para o Zoom aqui](https://cornell.zoom.us/j/96720855717?pwd=Q1pFL0VCdTUrVTF5V3hYNmJZU00rZz09)
+[Link para o Zoom aqui](https://cornell.zoom.us/j/96720855717?pwd=Q1pFL0VCdTUrVTF5V3hYNmJZU00rZz09)
