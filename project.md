@@ -9,7 +9,7 @@ permalink: /project/
 
 * **Coordenadora**: Bruna Oliveira, Instituto de Meio Ambiente de Mato Grosso do Sul (IMASUL).
 
-* **Mídias**: [Website Projeto Sementes do Taquari - IMASUL](https://storymaps.arcgis.com/stories/ef35a57241114b789de6725ea7f795bf[Instagram])
+* **Mídias**: [[Website Projeto Sementes do Taquari - IMASUL](https://storymaps.arcgis.com/stories/ef35a57241114b789de6725ea7f795bf[Instagram])]
 
 * **Equipe**: Heriberto Gimênes Junior (IMASUL), Diego Azevedo Zoccal Garcia (IMASUL), Rudi Ricardo Laps (UFMS).
 
@@ -19,7 +19,7 @@ permalink: /project/
 
 * **Coordenadora**: Dra. Grasiela Porfirio, Instituto Homem Pantaneiro
 
-* **Mídias**: [Website Instituto Homem Pantaneiro](https://institutohomempantaneiro.org.br/)[Instagram](https://www.instagram.com/atelieverdeinspira/)
+* **Mídias**: [][Website Instituto Homem Pantaneiro](https://institutohomempantaneiro.org.br/)][[Instagram](https://www.instagram.com/atelieverdeinspira/)]
 
 * **Equipe**: Wener Hugo Arruda Moreno, Igor Pinho Souza, Geovani Vinco Tonolli, Mariana Alves Carvalho Queiróz (Instituto Homem Pantaneiro).
 
