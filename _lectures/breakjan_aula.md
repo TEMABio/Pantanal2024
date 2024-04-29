@@ -6,3 +6,4 @@ thumbnail:
 
 
 ---
+Que 2025 seja repleto de Bioacústica na sua jornada!
