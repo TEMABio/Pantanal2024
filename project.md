@@ -26,7 +26,6 @@ permalink: /project/
 * **Resumo**
 A Serra do Amolar é considerada uma área de prioridade extremamente alta para a conservação, e está localizada na borda oeste do Pantanal, em Mato Grosso do Sul. Sua rica biodiversidade é resultante da influência de biomas vizinhos, como o Cerrado, o Chaco e a Floresta Chiquitana. No entanto, apesar de suas belezas naturais e importância no contexto de diversidade biológica, essa região encontra-se ameaçada pelas atuais mudanças do clima, com a seca e os grandes incêndios florestais representando os principais impactos negativos. Nesse sentido, nossa proposta busca estimar a riqueza e a composição da anurofauna e avifauna associadas aos ambientes aquáticos para, em um primeiro momento, conhecer as espécies e avaliar como usam o habitat. Em longo prazo buscamos compor um banco de dados para gerar modelos de avaliação de impacto. Para isso utilizaremos as ferramentas do monitoramento acústico passivo da biodiversidade, por meio da parceria com o K. Lisa Yang Center for Conservation Bioacustics em seu programa de capacitação e mentoria.
 
-
 ## Bioacústica e Paisagem Modelo Pantanal
 
 * **Coordenador**: Dr. André Valle Nunes, Paisagem Modelo Pantanal
@@ -41,11 +40,12 @@ A Serra do Amolar é considerada uma área de prioridade extremamente alta para 
 
 **Coordenadora**: Dra. Carolline Zatta Fieker (UFMT/INAU)
 
-* **Mídias**: [[CO.BRA UFMT](https://www.ic.ufmt.br/cobra/)]
+* **Mídias**: [[CO.BRA UFMT](https://cobra.ic.ufmt.br/)]
 
 * **Equipe**: Dr. Matheus Gonçalves dos Reis (UFMT/INAU).
 
 * **Resumo**
+O Co.BRA é uma rede científica interdisciplinar dedicada principalmente ao monitoramento acústico automatizado da biodiversidade do Pantanal. O projeto iniciado em 2012 já possui um banco de dados de sons de aves, mamíferos, anfíbios, insetos e jacarés, que contém cerca de 300Tb, o qual está hospedado no servidor do “INAU Pantanal BioData Center” (IBPC). Atualmente quatro projetos estão em andamento, sendo três relacionados ao grupo das aves e um aos jacarés-do-pantanal. Os projetos abrangem o estudo das atividades vocais e dinâmica sazonal das aves noturnas no Pantanal norte; a compreensão de padrões temporais da diversidade sonora das paisagens acústicas do Pantanal por meio de índices acústicos para o monitoramento da fauna; a distribuição e dinâmica da população do mutum-de-penacho (Crax fasciolata); e o monitoramento da dinâmica populacional e padrões de atividade vocal dos jacarés-do-pantanal (Caiman yacare). Além dos gravadores automatizados, também são utilizadas câmeras-trap e um veículo aéreo não tripulado para a execução dos projetos.
 
 ## Aves noturnas e Anuros na Fazenda San Francisco
 
