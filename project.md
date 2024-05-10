@@ -19,11 +19,13 @@ permalink: /project/
 
 * **Coordenadora**: Dra. Grasiela Porfirio, Instituto Homem Pantaneiro
 
-* **Mídias**: [[Website Instituto Homem Pantaneiro](https://institutohomempantaneiro.org.br/)][[Instagram](https://www.instagram.com/atelieverdeinspira/)]
+* **Mídias**: [[Website Instituto Homem Pantaneiro](https://institutohomempantaneiro.org.br/)][[Instagram](https://www.instagram.com/ihp_pantanal_/)][[LinkedIn](https://www.linkedin.com/company/ihppantanal/?originalSubdomain=br)
 
 * **Equipe**: Wener Hugo Arruda Moreno, Igor Pinho Souza, Geovani Vinco Tonolli, Mariana Alves Carvalho Queiróz (Instituto Homem Pantaneiro).
 
 * **Resumo**
+A Serra do Amolar é considerada uma área de prioridade extremamente alta para a conservação, e está localizada na borda oeste do Pantanal, em Mato Grosso do Sul. Sua rica biodiversidade é resultante da influência de biomas vizinhos, como o Cerrado, o Chaco e a Floresta Chiquitana. No entanto, apesar de suas belezas naturais e importância no contexto de diversidade biológica, essa região encontra-se ameaçada pelas atuais mudanças do clima, com a seca e os grandes incêndios florestais representando os principais impactos negativos. Nesse sentido, nossa proposta busca estimar a riqueza e a composição da anurofauna e avifauna associadas aos ambientes aquáticos para, em um primeiro momento, conhecer as espécies e avaliar como usam o habitat. Em longo prazo buscamos compor um banco de dados para gerar modelos de avaliação de impacto. Para isso utilizaremos as ferramentas do monitoramento acústico passivo da biodiversidade, por meio da parceria com o K. Lisa Yang Center for Conservation Bioacustics em seu programa de capacitação e mentoria.
+
 
 ## Bioacústica e Paisagem Modelo Pantanal
 
