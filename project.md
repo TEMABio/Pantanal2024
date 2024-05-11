@@ -19,7 +19,7 @@ permalink: /project/
 
 * **Coordenadora**: Dra. Grasiela Porfirio, Instituto Homem Pantaneiro
 
-* **Mídias**: [[Website Instituto Homem Pantaneiro](https://institutohomempantaneiro.org.br/)][[Instagram](https://www.instagram.com/ihp_pantanal_/)][[LinkedIn](https://www.linkedin.com/company/ihppantanal/?originalSubdomain=br)
+* **Mídias**: [[Website Instituto Homem Pantaneiro](https://institutohomempantaneiro.org.br/)][[Instagram](https://www.instagram.com/ihp_pantanal_/)][[LinkedIn](https://www.linkedin.com/company/ihppantanal/?originalSubdomain=br)]
 
 * **Equipe**: Wener Hugo Arruda Moreno, Igor Pinho Souza, Geovani Vinco Tonolli, Mariana Alves Carvalho Queiróz (Instituto Homem Pantaneiro).
 
