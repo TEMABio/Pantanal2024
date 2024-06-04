@@ -71,8 +71,10 @@ O Co.BRA é uma rede científica interdisciplinar dedicada principalmente ao mon
 
 **Coordenador**: Ryan Kridler, Instituto de Biociências da Universidade Federal de Mato Grosso do Sul
 
-* **Mídias**:
+* **Mídias**: [[Instagram] (https://www.instagram.com/mapinguariufms?igsh=aHQzZXNpMGVpcDJz)]
 
-* **Equipe**: Dr. Diego José Santana Silva, (Instituto de Biociências da Universidade Federal de Mato Grosso do Sul).
+
+* **Equipe**: Dr. Diego José Santana Silva, Priscila do Nascimento Lopes,  Álvaro Aragão de Lima, Cristopher Alberto Antúnez Fonseca, Dr. Diego José Santana Silva, Jamille Vitória Portilho Santos, Lauany Lima Serafim, Matheus Sthanley Ferreira Firme, Dr. Vanda Lúcia Ferreira; (Instituto de Biociências da Universidade Federal de Mato Grosso do Sul).
 
 * **Resumo**
+This study will employ passive acoustic monitoring (PAM) to investigate the impact of increasingly destructive wildfires on anuran communities, the ecological consequences of worsening wildfires in the Pantanal, and their recovery trajectories. The research site in the southern Pantanal will undergo controlled burns in 2024, and we will utilize PAM to enable comparative analysis of anuran community composition between burned and unburned areas to evaluate how fire disturbance impacts anuran community temporal recovery patterns. Anticipated results suggest reduced species abundance and richness in burned areas, with anuran populations potentially unable to fully recover before the next fire disturbance. The findings of this study will inform predictions of long-term trends in anuran communities if wildfires continue to worsen, contributing to herpetology and fire ecology fields as well as global scientific understanding, policy-making, and conservation efforts.
