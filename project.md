@@ -71,7 +71,7 @@ O Co.BRA é uma rede científica interdisciplinar dedicada principalmente ao mon
 
 **Coordenador**: Ryan Kridler, Instituto de Biociências da Universidade Federal de Mato Grosso do Sul
 
-* **Mídias**: [[Instagram] (https://www.instagram.com/mapinguariufms?igsh=aHQzZXNpMGVpcDJz)]
+* **Mídias**: [[Instagram](https://www.instagram.com/mapinguariufms?igsh=aHQzZXNpMGVpcDJz)]
 
 
 * **Equipe**: Dr. Diego José Santana Silva, Priscila do Nascimento Lopes,  Álvaro Aragão de Lima, Cristopher Alberto Antúnez Fonseca, Dr. Diego José Santana Silva, Jamille Vitória Portilho Santos, Lauany Lima Serafim, Matheus Sthanley Ferreira Firme, Dr. Vanda Lúcia Ferreira; (Instituto de Biociências da Universidade Federal de Mato Grosso do Sul).
