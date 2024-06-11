@@ -66,6 +66,7 @@ O Co.BRA é uma rede científica interdisciplinar dedicada principalmente ao mon
 * **Equipe**: Álvaro Aragão de Lima, Cristopher Alberto Antúnez Fonseca, Dr. Diego José Santana Silva, Jamille Vitória Portilho Santos, Lauany Lima Serafim, Matheus Sthanley Ferreira Firme, Dra. Vanda Lúcia Ferreira; (Instituto de Biociências da Universidade Federal de Mato Grosso do Sul).
 
 * **Resumo**
+Os crocodilianos se destacam pela sua habilidade em emitir sons em várias situações de comunicação. Embora pesquisas experimentais recentes tenham apresentado evidências do papel significativo das vocalizações dos crocodilianos, ainda existe a necessidade de uma compreensão mais aprofundada do repertório vocal para uma descrição minuciosa da comunicação acústica desses animais, especialmente considerando as influências dos diversos ambientes em que habitam. Este estudo tem como objetivo principal explorar as características acústicas nas chamadas de contato do jacaré-do-pantanal, com foco na estrutura e codificação de informações sobre sua comunicação, visando não apenas desvendar a diversidade e complexidade das vocalizações, mas também compreender como fatores ambientais específicos podem moldar esses padrões sonoros, almejando fornecer uma visão mais abrangente da comunicação acústica dessa espécie, contribuindo para a compreensão geral da ecologia acústica dos crocodilianos e suas adaptações comportamentais aos diferentes habitats.
 
 ## Respostas de anuros à Queimadas no Pantanal
 
