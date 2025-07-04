@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2024-11-19T8:00:00+4:30
-title: 6ª sessão de treinamento virtual
+date: 2025-07-18T4:00:00+4:30
+title: 7ª sessão de treinamento virtual
 thumbnail:
 hide_from_announcments: true
 
