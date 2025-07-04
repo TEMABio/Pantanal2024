@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-07-18T4:00:00+4:30
-title: 7ª sessão de treinamento virtual
+title: 6ª sessão de treinamento virtual
 thumbnail:
 hide_from_announcments: true
 
